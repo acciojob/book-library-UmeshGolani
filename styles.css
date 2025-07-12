@@ -45,3 +45,11 @@ body {
   font-weight: bold;
   font-size: 1em;
 }
+.book-library {
+  background-color: #ffffff;
+  /* other styles */
+}
+
+.book {
+  /* individual book styling */
+}
