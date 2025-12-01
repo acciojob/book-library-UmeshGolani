@@ -16,13 +16,13 @@ background-color:rgb(255, 255, 255);
 }
 
 .price{
+	background-color:#2ecc71;
+	color: #ffffff;
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	margin:5px;
-	background-color:#2ecc71;
-	color:white;
 }
 .author{
-	color:rgb(119, 119, 119);
+	color: #777777;
 }
