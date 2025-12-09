@@ -8,6 +8,8 @@ body{
 	display:flex;
 	flex-direction:column;
 	gap:10px;
+	justify-content:center;
+	align-items:center;
 }
 
 .book{
@@ -24,5 +26,5 @@ background-color:rgb(255, 255, 255);
 	margin:5px;
 }
 .author{
-	background-color: rgb(119, 119, 119);
+	color: rgb(119, 119, 119);
 }
